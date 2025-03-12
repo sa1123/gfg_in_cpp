@@ -1,2 +1,2 @@
-# gfg_in_cpp
+# GFG in C++
 Geeksforgeeks coding problems solved using C++
